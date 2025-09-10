@@ -1,9 +1,22 @@
-﻿Vad visste du om mjukvaruutveckling innan kursen – och vad vet du nu?:
+﻿Vad visste du om mjukvaruutveckling innan kursen – och vad vet du nu?: 
+Absolut det ytligaste när det kommer till hur en organisation skapar mjukvara. Att man jobbar väldigt nära i grupper som skapar delar av appen. Att sitta i början och läsa på om Waterflow och Agile i början. Att sitta och läsa om dessa två koncept gav en väldigt bra inblick i arbetssätt, bli en scrum master bara för titeln. Jag har lekt runt lite i Github innan, men även här är det väldigt ytligt i vad jag vet. Men att nu känner jag att jag kan använda det i både min utbildning och sedan på arbetsplatsen.  
 
-Vad betyder “DevOps” för dig? Hur skulle du förklara det till en kompis?:
+ 
 
-Hur tänker du kring molnet? Vad känns spännande – och vad känns svårt?:
+Vad betyder “DevOps” för dig? Hur skulle du förklara det till en kompis?: 
+Först ta min förklaring av Agile development i föregående uppgift. Hur man går mer ifrån waterfall, där alla har sin roll att spela innan man skeppar produkten. Till att gå mer in i Agile. Men att man går längre och det är samma team som tar hand om produkten genom hela livscykeln. Man planerar, frontend, backend och systemtekniker som efter lansering utvecklar produkten. Kräver mer som utvecklare, men ger även mer potential att utvecklas i alla roller. Sedan är det samma teams som är förstådda i koden etc istället för att nyya individer behöver lära sig infrastrukturen hela tiden (speciellt om det är mer komplicerade program).  
 
-Vad innebär det att vara en systemutvecklare i ett team?:
+ 
 
-Vad har varit mest intressant under kursens tre veckor?:
+Hur tänker du kring molnet? Vad känns spännande – och vad känns svårt?: 
+Jag har jobbat lite med databaser inom arkeologi. Då jag hade en datorvana och förstod digital struktur till en viss del så blev det snabbt (redan som student) att jag jobbade med kartmaterial. Jag skapade digitala kartor genom att vara ute på grävningar med totalstation som är en väldigt noggrann GPS. Där allt viktigt under grävningen blev inmätt (ta husgrunder, föremål etc som hittades). Allt fick sitt nummer genom programmet och man kunde sedan knyta grop med vad som hittades i gropen (även kommentarer från arkeologerna i fält). Via Intrasis så färdigställdes allt material och sändes till Riksantikvarieämbetet, som i sin tur lägger det i sin databas man som privatperson bla kan nå genom https://app.raa.se/open/fornsok/Mer en så är jag inte insatt i liknande. Men känns både spännande och svårt att greppa just nu. Men att det gör information mer tillgängligt för de som inte har tillgång till egna servrar. Man kanske inte behöver en egen byggnad med servrar på egen hand, eller behöver tekniker för att driva den fysiska infrastrukturen. Lite som jag skrev innan. Jag gjorde mitt och skapade objekt och färdigställde mitt digitalt, men en annan del av kedjan gjorde att det kom in i databasen och gjorde det tillgängligt. Nu lär jag mig den biten också. Det jag har med molnet är att någon sköter den fysiska delen. Ser även fram mot att lära mig hur och vad som kan behövas för att driva en egen app. Hur trafik från användare spelar roll i hur bra den kan funka.  
+
+ 
+
+Vad innebär det att vara en systemutvecklare i ett team?: 
+Att vara en del i kedjan när det kommer till utveckling och drift av IT system. Ha god koll på programmering, databaser. Men som ett team lämna dokumentation och dialog med vad man gör. Alla behöver inte kunna allt till minsta detalj, men bra om alla kan snabbt och effektivt gå in där det behövs (man vet aldrig när jobbiga buggar hittar sina hem i utvecklingen)  
+
+ 
+
+Vad har varit mest intressant under kursens tre veckor?: 
+Få en inblick i hur man jobbar som utvecklare. Roligt att gå in i Waterfall (som verkar vara metoden som används mindre och mindre) för att sedan lära sig mer om Agile utvecklingsmetoden. Man lär sig bra genom att se vart något kommer ifrån, men ibland kan det fortfarande vara så att det tidigare kan ha sin plats kvar i världen. Även att få lära sig Github. Ha en bra grund i hur man arbetar med kod. Ett team vet inget om de inte har tillgång till vad jag gör. Att vara programmerare är mer än bara kod. 
