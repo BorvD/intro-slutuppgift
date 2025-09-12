@@ -1,0 +1,28 @@
+﻿Vad är skillnaden mellan IaaS, PaaS och SaaS?: 
+
+IaaS (Infrastructure as a Service). Är att man som tjänst står för själva den fysiska arkitekturen av en app. Där skaparna av appen hyr in sig i den fysiska delen som behövs genom servrar, lagring och nätverk. En mindre affär kanske inte behöver en lagerlokal med servrar bara för att hålla sin sida uppe. De betalar hyra, ofta hur mycket som de behöver, till de användarna som använder hemsidan/appen. 
+PaaS (Platform as a Service). Är att man som tjänst står för själva den fysiska arkitekturen av en app, men man står även för mjukvara som hjälper kunden att utveckla, testa och lansera sina egen mjukvara.  
+SaaS (Software as a Service). Här tillhändahålls bara en digital tjäns knuten till Cloud. Ett program som körs via molnen och inte via datorn. Som Word jag nu skriver i via Office 365. Där jag kan nå vad jag behöver via molnet om jag byter dator. 
+
+ 
+
+Vad gör Git och vad är GitHub?: 
+Git är ett program som låter dig spara och spåra förändring i ett program. Hur man kan spåra och se förändring i källkod av ett program. Göra sparningar i utvecklingsprocessen och kunna gå in i förändringarna mellan varje sparning. 
+GitHub är en molntjänst som låter dig använda Git i en användarmiljö och lätt kan använda det som Git har att erbjuda i programutveckling. 
+
+  
+
+Vad är ett informationssystem?: 
+Informationssystem är ett sätt att samla in, bearbeta och distribuera information. Språk är ett informationssystem, en utveckling av språket är att kunna bevara och sprida det är boktryckarkonsten. För att nu ha mycket av det i molnet, så att en individ kan hitta mycket av fakta genom tex att ligga i soffan och “googla” via sin mobil. 
+
+  
+
+Vad är CIA-triaden?:  
+CIA triaden är en grundläggande modell inom informationssäkerhet: 
+Confidentiality: Att informationen är skyddad genom tex lösenord, kryptering. Så bara de som skall ha tillgång till den har det. 
+Integrity: Att informationen är tillförlitlig genom hela sin livslängd. Kunna se ifall någon har gjort obehörig ändring av informationen. 
+Availability: Att den finns där när den behövs och att den inte försvinner. Tex säkerhetskopiera något ifall databasen blir skadad fysiskt eller digitalt. 
+ 
+ 
+Vad är Continuous Integration (CI)?: 
+Att man jobbar genom att ofta lägga upp den delen av kod man har arbetat med så ofta man kan mot ett centrals repository.  Genom detta kan man snabbt hitta buggar och konflikter i koden som sammanställs. Stoppa större problem att uppstå. Skapa vetskap inom hela teamet vad som händer med koden och hur den förändras. Genom detta kan man snabbt gå vidare och bygga kod istället för att få större problem där kod kanske behöver skrivas om helt. 

@@ -8,4 +8,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include=".github\Pull_Request_Template.md" />
+    <None Include=".github\workflows\GithubActionBuildCheck.yml" />
+  </ItemGroup>
+
 </Project>
